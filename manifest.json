@@ -1,11 +1,11 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-do-files",
+	"name": "Obsidian .do file loader",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Open .do files from Tandy TRS computers as markdown",
+	"author": "Amanda Chaudhary",
+	"authorUrl": "https://catsynth.com",
+	"fundingUrl": "https://ko-fi.com/catsynth",
 	"isDesktopOnly": false
 }
